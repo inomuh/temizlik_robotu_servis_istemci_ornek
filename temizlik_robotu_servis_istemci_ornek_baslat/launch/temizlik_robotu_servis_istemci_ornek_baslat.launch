@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+
+<launch>
+
+    <include file="$(find temizlik_robotu_servis_ornek)/launch/temizlik_robotu_servis_ornek_baslat.launch" />
+    <include file="$(find temizlik_robotu_istemci_ornek)/launch/temizlik_robotu_istemci_ornek_baslat.launch" />
+
+</launch>
