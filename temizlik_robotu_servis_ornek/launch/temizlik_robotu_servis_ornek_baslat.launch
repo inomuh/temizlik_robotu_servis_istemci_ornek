@@ -1,7 +1,0 @@
-<?xml version="1.0"?>
-
-<launch>
-
-	<node pkg="temizlik_robotu_servis_ornek" type="temizlik_robotu_servis_ornek_dugumu.py" name="temizlik_robotu_servis_ornek_dugumu" output="screen" />
-	
-</launch>
